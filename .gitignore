@@ -1,0 +1,13 @@
+##### ignore auto-generated files by eclipse ##### 
+
+*.project  
+*.classpath  
+.settings/  
+
+##### ignore all folder except source codes #####
+
+bin/
+
+##### ignore fixed files #####  
+
+*.class
