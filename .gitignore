@@ -2,7 +2,8 @@
 
 *.project  
 *.classpath  
-.settings/  
+.settings/ 
+MANIFEST.MF 
 
 ##### ignore all folder except source codes #####
 
